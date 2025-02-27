@@ -1,0 +1,1 @@
+Here are RSV-A and RSV-B genome reference sequences and primer sequence bed files that can be used for analysing RSV NGS data based on a long amplicon-based method published (https://www.biorxiv.org/content/10.1101/2025.01.06.631406v1.full).
